@@ -1,0 +1,763 @@
+{
+    "_links": {
+        "self": {
+            "href": "/outline/1"
+        }
+    },
+    "_embedded": {
+        "bullets": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "/bullets/625a878f-6e98-4cae-9b86-a3caedeefcb3"
+                    }
+                },
+                "_embedded": {
+                    "bullets": [
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/6042ee86-9359-4cc5-ae49-93a28699fd8a"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/f68753c7-7165-44a5-aa48-f947ece888e2"
+                                            }
+                                        },
+                                        "id": "f68753c7-7165-44a5-aa48-f947ece888e2",
+                                        "name": "WHO: One-Third of All Cancer Deaths Are Preventable",
+                                        "color": "#653a31",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "6042ee86-9359-4cc5-ae49-93a28699fd8a",
+                            "name": "China Expands Crackdown on Tibet Immolations",
+                            "color": "#346051",
+                            "order": 1
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/8c5d0653-03d4-4e5d-9a35-bbe32a86a4c5"
+                                }
+                            },
+                            "id": "8c5d0653-03d4-4e5d-9a35-bbe32a86a4c5",
+                            "name": "Twitter Hit by Cyber Attack",
+                            "color": "#553739",
+                            "order": 2
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/bfb0923e-9089-47a8-877d-587ee99cc52a"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/ab9c983d-2025-4c50-a288-d2673bfe0b9c"
+                                            }
+                                        },
+                                        "id": "ab9c983d-2025-4c50-a288-d2673bfe0b9c",
+                                        "name": "Washington – Kremlin: Why Be Nice?",
+                                        "color": "#7e817",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "bfb0923e-9089-47a8-877d-587ee99cc52a",
+                            "name": "Transplant Recipient Says New Arms 'Amazing'",
+                            "color": "#74194d",
+                            "order": 3
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/2019f2f6-3767-40cc-ab63-af1f45dbccfb"
+                                }
+                            },
+                            "id": "2019f2f6-3767-40cc-ab63-af1f45dbccfb",
+                            "name": "Pentagon Lecture Highlights Emancipation Proclamation",
+                            "color": "#2b7f68",
+                            "order": 4
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/74aa6cf4-e07b-4cf7-9f01-ca993ec55f9b"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/8313d671-8d57-4f39-973e-d7def3921793"
+                                            }
+                                        },
+                                        "id": "8313d671-8d57-4f39-973e-d7def3921793",
+                                        "name": "EU Leaders: 'Deal Done' on Long-Term Austerity Budget",
+                                        "color": "#7a6163",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "74aa6cf4-e07b-4cf7-9f01-ca993ec55f9b",
+                            "name": "New England Fishermen Face Crippling Cuts",
+                            "color": "#2e5b4",
+                            "order": 5
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/d0ef8bfc-2b29-43ee-9171-73e7f744815b"
+                                }
+                            },
+                            "id": "d0ef8bfc-2b29-43ee-9171-73e7f744815b",
+                            "name": "Love Meets Politics on Dating Websites",
+                            "color": "#496f",
+                            "order": 6
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/7ac25e8f-da81-4241-a9c6-cf1b2bb89e76"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/b416715d-723d-4c93-ad4b-6e698b7ffd97"
+                                            }
+                                        },
+                                        "id": "b416715d-723d-4c93-ad4b-6e698b7ffd97",
+                                        "name": "Study: Earth-Like Planets Closer Than Expected",
+                                        "color": "#317d",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "7ac25e8f-da81-4241-a9c6-cf1b2bb89e76",
+                            "name": "Study: Earth-Like Planets Closer Than Expected",
+                            "color": "#374d20",
+                            "order": 7
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/03897f06-bc05-4a11-b0cd-c2e89c0cc44a"
+                                }
+                            },
+                            "id": "03897f06-bc05-4a11-b0cd-c2e89c0cc44a",
+                            "name": "Scientists Find New Strategy Against Drug-Resistant Superbugs",
+                            "color": "#52694d",
+                            "order": 8
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/9db19060-ffa2-44ad-8896-892df45c2ade"
+                                }
+                            },
+                            "id": "9db19060-ffa2-44ad-8896-892df45c2ade",
+                            "name": "Living Microorganisms Found High Above Earth",
+                            "color": "#07050",
+                            "order": 9
+                        }
+                    ]
+                },
+                "id": "625a878f-6e98-4cae-9b86-a3caedeefcb3",
+                "name": "China Expands Crackdown on Tibet Immolations",
+                "color": "#30665c",
+                "order": 1
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/bullets/9aabfd24-6300-471c-9b35-52aae0785e7b"
+                    }
+                },
+                "id": "9aabfd24-6300-471c-9b35-52aae0785e7b",
+                "name": "New England Fishermen Face Crippling Cuts",
+                "color": "#7b6653",
+                "order": 2
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/bullets/bf41d27b-3473-4d82-96df-d9c71122d084"
+                    }
+                },
+                "id": "bf41d27b-3473-4d82-96df-d9c71122d084",
+                "name": "EU Leaders: 'Deal Done' on Long-Term Austerity Budget",
+                "color": "#484f31",
+                "order": 3
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/bullets/313c638a-1326-401a-b150-755b9b610cfb"
+                    }
+                },
+                "_embedded": {
+                    "bullets": [
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/1d181062-141d-47d3-a119-e051819a3e70"
+                                }
+                            },
+                            "id": "1d181062-141d-47d3-a119-e051819a3e70",
+                            "name": "Nominees, Movie Fans Get Ready for Oscars",
+                            "color": "#7a3b49",
+                            "order": 1
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/68617f22-709d-45f2-b6fb-9adc854e06c2"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/206898c6-36e3-4da3-905b-0484efb8144a"
+                                            }
+                                        },
+                                        "id": "206898c6-36e3-4da3-905b-0484efb8144a",
+                                        "name": "EU Leaders: 'Deal Done' on Long-Term Austerity Budget",
+                                        "color": "#577249",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "68617f22-709d-45f2-b6fb-9adc854e06c2",
+                            "name": "Locklear Lauds Brunei for Promoting Regional Cooperation",
+                            "color": "#38564c",
+                            "order": 2
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/b7669fee-717c-4b11-8927-6184d12b280c"
+                                }
+                            },
+                            "id": "b7669fee-717c-4b11-8927-6184d12b280c",
+                            "name": "Transplant Recipient Says New Arms 'Amazing'",
+                            "color": "#684240",
+                            "order": 3
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/a64e12a2-0308-4b2c-9328-642980b15a28"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/78bb3f31-16b8-490f-afec-867b54d50bbf"
+                                            }
+                                        },
+                                        "id": "78bb3f31-16b8-490f-afec-867b54d50bbf",
+                                        "name": "Newly Developed Skin Cream Cures Parasitic Illness",
+                                        "color": "#5c5b7f",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "a64e12a2-0308-4b2c-9328-642980b15a28",
+                            "name": "Love Meets Politics on Dating Websites",
+                            "color": "#38336a",
+                            "order": 4
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/90ce9651-d0de-4888-ae5f-2f83beb6d3e9"
+                                }
+                            },
+                            "id": "90ce9651-d0de-4888-ae5f-2f83beb6d3e9",
+                            "name": "Scientists Find New Strategy Against Drug-Resistant Superbugs",
+                            "color": "#1e415d",
+                            "order": 5
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/2f95d37c-0eb8-44cf-834d-515e345106a6"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/86365506-474b-4b55-82da-d8e7b9e0fc2f"
+                                            }
+                                        },
+                                        "id": "86365506-474b-4b55-82da-d8e7b9e0fc2f",
+                                        "name": "Washington – Kremlin: Why Be Nice?",
+                                        "color": "#4c567b",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "2f95d37c-0eb8-44cf-834d-515e345106a6",
+                            "name": "Ukraine Complains No Help From Europe in Russia Gas Dispute",
+                            "color": "#1397b",
+                            "order": 6
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/47ee2b2d-1594-4f78-9598-5bc82488226e"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/ba5d5ee3-4c55-4fa5-9b42-ce2789b71585"
+                                            }
+                                        },
+                                        "id": "ba5d5ee3-4c55-4fa5-9b42-ce2789b71585",
+                                        "name": "China Expands Crackdown on Tibet Immolations",
+                                        "color": "#45154e",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "47ee2b2d-1594-4f78-9598-5bc82488226e",
+                            "name": "Pentagon Lecture Highlights Emancipation Proclamation",
+                            "color": "#6c4276",
+                            "order": 7
+                        }
+                    ],
+                    "notecard": [
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/notecards/834ad0b8-deb7-41cc-aff4-059ae3c4bdff"
+                                }
+                            },
+                            "id": "834ad0b8-deb7-41cc-aff4-059ae3c4bdff",
+                            "name": "Past Conflict Still Affects Aid Workers",
+                            "color": "#665f1",
+                            "order": 1
+                        }
+                    ]
+                },
+                "id": "313c638a-1326-401a-b150-755b9b610cfb",
+                "name": "State of the Union Address Likely to Focus on Domestic Issues",
+                "color": "#391574",
+                "order": 4
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/bullets/b6126cba-3b28-4732-aadc-7b9f361f6d56"
+                    }
+                },
+                "_embedded": {
+                    "bullets": [
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/0b963333-8128-4394-b0c6-2e81b334e291"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/d1af6386-8491-4d08-9a55-37e45061d00b"
+                                            }
+                                        },
+                                        "id": "d1af6386-8491-4d08-9a55-37e45061d00b",
+                                        "name": "Hersman Announces Selection of Tracy Murrell as Director of Marine Safety",
+                                        "color": "#1d123a",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "0b963333-8128-4394-b0c6-2e81b334e291",
+                            "name": "China Expands Crackdown on Tibet Immolations",
+                            "color": "#5e135",
+                            "order": 1
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/ff3eef0c-de84-462b-af1d-241c1af4e281"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/d08c7bb1-a5b5-4116-9db9-f9b112dfe1b7"
+                                            }
+                                        },
+                                        "id": "d08c7bb1-a5b5-4116-9db9-f9b112dfe1b7",
+                                        "name": "US Official Defends Drone Strikes After Leaked Memo",
+                                        "color": "#2f6e6c",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "ff3eef0c-de84-462b-af1d-241c1af4e281",
+                            "name": "Newly Developed Skin Cream Cures Parasitic Illness",
+                            "color": "#465933",
+                            "order": 2
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/9bdeccd7-3037-4a8c-871e-58e6a3498fa9"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/ef01e30d-1542-4433-9634-b55115897a7c"
+                                            }
+                                        },
+                                        "id": "ef01e30d-1542-4433-9634-b55115897a7c",
+                                        "name": "Cat to Replace Iron After Vote by Monopoly Fans",
+                                        "color": "#10285a",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "9bdeccd7-3037-4a8c-871e-58e6a3498fa9",
+                            "name": "EU Leaders: 'Deal Done' on Long-Term Austerity Budget",
+                            "color": "#674a2c",
+                            "order": 3
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/90858425-bec2-43ad-90ef-44530b06e82a"
+                                }
+                            },
+                            "id": "90858425-bec2-43ad-90ef-44530b06e82a",
+                            "name": "New England Fishermen Face Crippling Cuts",
+                            "color": "#14461b",
+                            "order": 4
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/de296462-1340-4f08-8fd5-3e0b7c1fb246"
+                                }
+                            },
+                            "id": "de296462-1340-4f08-8fd5-3e0b7c1fb246",
+                            "name": "Scientists Find New Strategy Against Drug-Resistant Superbugs",
+                            "color": "#7d7819",
+                            "order": 5
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/4c95562c-4e0f-4cff-9e8e-eabab2834350"
+                                }
+                            },
+                            "id": "4c95562c-4e0f-4cff-9e8e-eabab2834350",
+                            "name": "China Expands Crackdown on Tibet Immolations",
+                            "color": "#f2547",
+                            "order": 6
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/a780aaf9-f201-4c12-a342-d40de00cb356"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/2ec7438e-e010-4820-a4aa-d9f397893739"
+                                            }
+                                        },
+                                        "id": "2ec7438e-e010-4820-a4aa-d9f397893739",
+                                        "name": "Locklear Lauds Brunei for Promoting Regional Cooperation",
+                                        "color": "#683c25",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "a780aaf9-f201-4c12-a342-d40de00cb356",
+                            "name": "Eating Colorful Produce May Help Prevent ALS",
+                            "color": "#1c1327",
+                            "order": 7
+                        }
+                    ]
+                },
+                "id": "b6126cba-3b28-4732-aadc-7b9f361f6d56",
+                "name": "Study: More TV and Less Exercise Lead to Lower Sperm Count",
+                "color": "#25a27",
+                "order": 5
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/bullets/a563b9d5-fda8-48b1-a95a-77325bd7e22a"
+                    }
+                },
+                "_embedded": {
+                    "bullets": [
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/dfe8ced6-3582-4195-ac5a-cebd4d0d685a"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/a34b6050-47bd-4491-928e-b2acf5e511c1"
+                                            }
+                                        },
+                                        "id": "a34b6050-47bd-4491-928e-b2acf5e511c1",
+                                        "name": "Love Meets Politics on Dating Websites",
+                                        "color": "#302645",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "dfe8ced6-3582-4195-ac5a-cebd4d0d685a",
+                            "name": "Panetta: DOD Must ‘Operate on Every Front’ Against Suicide",
+                            "color": "#334b48",
+                            "order": 1
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/4b15a993-bc9b-49e2-b400-7f8cd2bb6525"
+                                }
+                            },
+                            "id": "4b15a993-bc9b-49e2-b400-7f8cd2bb6525",
+                            "name": "Clarkson is Top 'Idol' Earner; CBS Plans Whitney Houston Grammy Special",
+                            "color": "#6c85e",
+                            "order": 2
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/141445aa-9107-4727-91b1-d0d98b4fc438"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/6b3a34ae-7f63-4404-ab7a-f7a68d12c308"
+                                            }
+                                        },
+                                        "id": "6b3a34ae-7f63-4404-ab7a-f7a68d12c308",
+                                        "name": "Japan Condemns China's Use of Weapons-Targeting Radar",
+                                        "color": "#343d31",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "141445aa-9107-4727-91b1-d0d98b4fc438",
+                            "name": "New Director of Johnson Space Center Faces Cutbacks, Uncertainty",
+                            "color": "#f1312",
+                            "order": 3
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/89320beb-8f03-415a-86f2-3e34bcd701eb"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/3c9394a7-b19a-428c-9f19-17115e747d50"
+                                            }
+                                        },
+                                        "id": "3c9394a7-b19a-428c-9f19-17115e747d50",
+                                        "name": "Japan Condemns China's Use of Weapons-Targeting Radar",
+                                        "color": "#6c455e",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "89320beb-8f03-415a-86f2-3e34bcd701eb",
+                            "name": "Obama: Full Steam Ahead",
+                            "color": "#444f5c",
+                            "order": 4
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/3eb83316-e56e-4fc4-a8a6-81dd22da2972"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/4bec356e-5f33-4655-9657-597a629ca0ec"
+                                            }
+                                        },
+                                        "id": "4bec356e-5f33-4655-9657-597a629ca0ec",
+                                        "name": "Tourists Help Conservation Effort at Indian Tiger Reserves",
+                                        "color": "#356b23",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "3eb83316-e56e-4fc4-a8a6-81dd22da2972",
+                            "name": "EU Leaders: 'Deal Done' on Long-Term Austerity Budget",
+                            "color": "#731572",
+                            "order": 5
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/8fd295d3-53fe-42da-9b1b-35bd9b9c22a1"
+                                }
+                            },
+                            "_embedded": {
+                                "notecard": [
+                                    {
+                                        "_links": {
+                                            "self": {
+                                                "href": "/notecards/ce4c7e0d-c5c1-48ab-a4a8-6e5c9139c82a"
+                                            }
+                                        },
+                                        "id": "ce4c7e0d-c5c1-48ab-a4a8-6e5c9139c82a",
+                                        "name": "London Set for Huge Chinese New Year Celebrations",
+                                        "color": "#7c7834",
+                                        "order": 1
+                                    }
+                                ]
+                            },
+                            "id": "8fd295d3-53fe-42da-9b1b-35bd9b9c22a1",
+                            "name": "Twitter Hit by Cyber Attack",
+                            "color": "#37318",
+                            "order": 6
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/a6fbc7af-8a25-49e5-9727-3be61da28faa"
+                                }
+                            },
+                            "id": "a6fbc7af-8a25-49e5-9727-3be61da28faa",
+                            "name": "New Director of Johnson Space Center Faces Cutbacks, Uncertainty",
+                            "color": "#57273",
+                            "order": 7
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/3959c5ea-91b8-432e-af23-f3f6d06d7a24"
+                                }
+                            },
+                            "id": "3959c5ea-91b8-432e-af23-f3f6d06d7a24",
+                            "name": "Clean Energy Tied to National Security, Official Says",
+                            "color": "#1a1f3a",
+                            "order": 8
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/bullets/df1e45cc-f2ad-485f-95f6-6a2f50b8930c"
+                                }
+                            },
+                            "id": "df1e45cc-f2ad-485f-95f6-6a2f50b8930c",
+                            "name": "New Director of Johnson Space Center Faces Cutbacks, Uncertainty",
+                            "color": "#86834",
+                            "order": 9
+                        }
+                    ],
+                    "notecard": [
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/notecards/9e1aa860-e06c-4f42-8cb8-b48e9ca2c606"
+                                }
+                            },
+                            "id": "9e1aa860-e06c-4f42-8cb8-b48e9ca2c606",
+                            "name": "China Bans Ads for Luxury Goods",
+                            "color": "#7a5d45",
+                            "order": 1
+                        }
+                    ]
+                },
+                "id": "a563b9d5-fda8-48b1-a95a-77325bd7e22a",
+                "name": "Air Pollution Raises Risk of Low Birth Weight Babies",
+                "color": "#6a2d4f",
+                "order": 6
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/bullets/19a76139-a236-4117-bc0a-97dee622ec93"
+                    }
+                },
+                "_embedded": {
+                    "notecard": [
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "/notecards/61cdc848-8c2c-4f94-8017-f64d8495be6d"
+                                }
+                            },
+                            "id": "61cdc848-8c2c-4f94-8017-f64d8495be6d",
+                            "name": "Tourists Help Conservation Effort at Indian Tiger Reserves",
+                            "color": "#69712a",
+                            "order": 1
+                        }
+                    ]
+                },
+                "id": "19a76139-a236-4117-bc0a-97dee622ec93",
+                "name": "Oregon Truffle Dogs Unearth Treasure",
+                "color": "#1c6b6c",
+                "order": 7
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "/bullets/4903b74d-f55b-4a9d-bc4c-c38240555047"
+                    }
+                },
+                "id": "4903b74d-f55b-4a9d-bc4c-c38240555047",
+                "name": "New Director of Johnson Space Center Faces Cutbacks, Uncertainty",
+                "color": "#723e1a",
+                "order": 8
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^2.1.1",
+    "faker-ext": "^1.0.10",
+    "hal": "^0.1.0",
+    "node-uuid": "^1.4.1"
+  }
+}
